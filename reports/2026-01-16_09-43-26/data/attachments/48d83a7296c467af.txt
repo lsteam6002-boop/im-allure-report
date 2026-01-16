@@ -1,0 +1,1 @@
+ERROR    script.v1_6_2.test_audio_send_asr:test_audio_send_asr.py:780 测试失败TypeError：'NoneType' object cannot be interpreted as an integer
