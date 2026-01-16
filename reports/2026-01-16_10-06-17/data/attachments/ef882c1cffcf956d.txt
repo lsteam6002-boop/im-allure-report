@@ -1,1 +1,0 @@
-ERROR    script.v1_6_2.test_notify_push:test_notify_push.py:789 测试失败ValueError：unknown enum label "100"
