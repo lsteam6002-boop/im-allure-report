@@ -1,1 +1,0 @@
-ERROR    script.v1_6_2.test_audio_send_asr:test_audio_send_asr.py:1058 测试失败TypeError：bad argument type for built-in operation
