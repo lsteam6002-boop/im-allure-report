@@ -1,0 +1,79 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 16 11:16:32 CST 2026","Fri Jan 16 11:16:36 CST 2026","3360","script.v1_6_2","test_notify_push","","","","拉取会话消息-世界群","
+    测试拉取会话
+    "
+"passed","Fri Jan 16 11:16:05 CST 2026","Fri Jan 16 11:16:07 CST 2026","1334","script.v1_6_2","test_notify_push","","","","测试通知消息为系统消息","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:17 CST 2026","Fri Jan 16 11:16:18 CST 2026","1694","script.v1_6_2","test_notify_push","","","","测试通知type为-1","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:02 CST 2026","Fri Jan 16 11:16:04 CST 2026","1790","script.v1_6_2","test_notify_push","","","","测试通知消息为图片","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:15:55 CST 2026","Fri Jan 16 11:15:57 CST 2026","1689","script.v1_6_2","test_notify_push","","","","发送通知消息-自建群","
+    在发送消息
+    "
+"passed","Fri Jan 16 11:16:07 CST 2026","Fri Jan 16 11:16:08 CST 2026","1625","script.v1_6_2","test_notify_push","","","","测试通知消息为自定义","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:26 CST 2026","Fri Jan 16 11:16:29 CST 2026","3383","script.v1_6_2","test_notify_push","","","","拉取会话消息-私聊","
+    测试拉取会话
+    "
+"passed","Fri Jan 16 11:15:59 CST 2026","Fri Jan 16 11:16:02 CST 2026","3234","script.v1_6_2","test_notify_push","","","","测试通知消息为语音","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:15:54 CST 2026","Fri Jan 16 11:15:55 CST 2026","1669","script.v1_6_2","test_notify_push","","","","发送通知消息-世界群","
+    在发送消息
+    "
+"passed","Fri Jan 16 11:16:29 CST 2026","Fri Jan 16 11:16:32 CST 2026","3340","script.v1_6_2","test_notify_push","","","","拉取会话消息-自建群","
+    测试拉取会话
+    "
+"passed","Fri Jan 16 11:16:14 CST 2026","Fri Jan 16 11:16:16 CST 2026","1675","script.v1_6_2","test_notify_push","","","","测试通知type为11","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:18 CST 2026","Fri Jan 16 11:16:20 CST 2026","1656","script.v1_6_2","test_notify_push","","","","发送通知消息-语音","
+    在发送消息
+    "
+"passed","Fri Jan 16 11:16:20 CST 2026","Fri Jan 16 11:16:22 CST 2026","2310","script.v1_6_2","test_notify_push","","","","获取频道列表-语音消息校验","
+    获取频道列表成功
+    "
+"passed","Fri Jan 16 11:16:22 CST 2026","Fri Jan 16 11:16:26 CST 2026","3330","script.v1_6_2","test_notify_push","","","","拉取会话消息-游戏群","
+    拉取会话消息
+    "
+"passed","Fri Jan 16 11:16:13 CST 2026","Fri Jan 16 11:16:14 CST 2026","1671","script.v1_6_2","test_notify_push","","","","测试通知type为0","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:15:57 CST 2026","Fri Jan 16 11:15:59 CST 2026","1671","script.v1_6_2","test_notify_push","","","","测试通知消息为文本","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:11 CST 2026","Fri Jan 16 11:16:13 CST 2026","1698","script.v1_6_2","test_notify_push","","","","测试通知type为100","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:16 CST 2026","Fri Jan 16 11:16:16 CST 2026","307","script.v1_6_2","test_notify_push","","","","测试通知type为类型错误","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:08 CST 2026","Fri Jan 16 11:16:10 CST 2026","1348","script.v1_6_2","test_notify_push","","","","测试通知消息为表情","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:15:52 CST 2026","Fri Jan 16 11:15:54 CST 2026","1669","script.v1_6_2","test_notify_push","","","","发送通知消息-私聊","
+    在发送消息
+    "
+"passed","Fri Jan 16 11:16:04 CST 2026","Fri Jan 16 11:16:05 CST 2026","1655","script.v1_6_2","test_notify_push","","","","测试通知消息为富文本","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:15:50 CST 2026","Fri Jan 16 11:15:52 CST 2026","2214","script.v1_6_2","test_notify_push","","","","发送通知消息-联盟群","
+    在发送消息
+    "
+"passed","Fri Jan 16 11:16:39 CST 2026","Fri Jan 16 11:16:39 CST 2026","326","script.v1_6_2","test_notify_push","","","","标记频道消息已读位置成功","
+    标记频道消息已读位置
+    "
+"passed","Fri Jan 16 11:16:36 CST 2026","Fri Jan 16 11:16:39 CST 2026","3233","script.v1_6_2","test_notify_push","","","","批量翻译成功","
+    批量翻译接口
+    "
+"passed","Fri Jan 16 11:16:10 CST 2026","Fri Jan 16 11:16:11 CST 2026","1332","script.v1_6_2","test_notify_push","","","","测试通知消息为错误","
+    发送语音消息
+    "
+"passed","Fri Jan 16 11:16:16 CST 2026","Fri Jan 16 11:16:17 CST 2026","296","script.v1_6_2","test_notify_push","","","","测试通知type为None","
+    发送语音消息
+    "
